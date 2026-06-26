@@ -1,0 +1,13 @@
+# Core dependencies
+chromadb==0.4.24
+ollama>=0.6.2
+pypdf>=6.14.2
+sentence-transformers>=5.6.0
+
+# Fix NumPy 2.0 compatibility
+numpy==1.26.4
+
+# Optional but recommended
+streamlit>=1.28.0
+google-generativeai>=0.3.0
+rank-bm25
